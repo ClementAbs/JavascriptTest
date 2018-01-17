@@ -1,0 +1,7 @@
+myImg.onclick = function(){
+
+
+	alert("Vous avez choisit ciseaux")
+
+};
+
